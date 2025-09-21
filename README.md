@@ -15,7 +15,7 @@ This repository contains hands-on examples for exploring **security and privacy 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Hands-on-Security-and-Privacy-on-ML-DL.git
+git clone https://github.com/wajason/Hands-on-Security-and-Privacy-on-ML-DL.git
 cd Hands-on-Security-and-Privacy-on-ML-DL
 ```
 
